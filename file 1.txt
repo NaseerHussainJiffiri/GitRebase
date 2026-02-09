@@ -1,20 +1,3 @@
 /*** File 1 ***/
 
-change main 1
-change main 2
-change main 3
-change main 4
-change main 5
-change main 6
-change main 7
-change main 8
-change main 9
-change main 10
-change main 11
-change main 12
-change main 13
-change main 14
-change main 15
-change main 16
-change main 17
-change main 18
+"Reset main"

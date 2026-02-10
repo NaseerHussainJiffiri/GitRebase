@@ -3,4 +3,5 @@
 "main Fast forward merge"
 
 main 1
+main 2
 

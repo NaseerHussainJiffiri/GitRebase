@@ -3,3 +3,4 @@
 "main 3 way merge"
 
 "b_2 1"
+"b_2 2"
